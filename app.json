@@ -1,4 +1,4 @@
-{
+{IK~KtJgDIzR#NtFtZMU8Ss9xfkBxqAmuY5uWcfEgSu3Ls1PGHT7Jo8c
   "name": "DARKZONE-MD",
   "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
   "logo": "https://files.catbox.moe/jecbfo.jpg",
@@ -7,8 +7,8 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID": {IK~KtJgDIzR#NtFtZMU8Ss9xfkBxqAmuY5uWcfEgSu3Ls1PGHT7Jo8c
+      "description": "IK~KtJgDIzR#NtFtZMU8Ss9xfkBxqAmuY5uWcfEgSu3Ls1PGHT7Jo8c the session-id here.",
       "required": true,
       "value": ""
     },  
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "255671830665"
 
     }, 
 
@@ -112,7 +112,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -143,7 +143,7 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -155,7 +155,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -192,7 +192,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "READ_MESSAGE": {
