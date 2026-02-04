@@ -1,4 +1,4 @@
-{
+{back
   "name": "DARKZONE-MD",
   "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
   "logo": "https://files.catbox.moe/jecbfo.jpg",
@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {IK~31ZBUaiB#WgVmh2Gj3s8ADCJ3WeW6zpYXoo9bqcBa0ffWx9XQ6KE
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "255718862229"
 
     }, 
 
